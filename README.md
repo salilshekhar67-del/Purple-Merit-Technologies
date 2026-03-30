@@ -115,7 +115,7 @@ The LLM receives pre-computed results as **"GROUND TRUTH — DO NOT CHANGE"** an
 
 | Metric | Score |
 |--------|-------|
-| Citation Coverage | **100%** (25/25) |
+| Citation Coverage | **95%** (24/25) |
 | Eligibility Correctness | **100%** (10/10) |
 | Abstention Accuracy | **100%** (5/5) |
 | Structured Format | **100%** (25/25) |
