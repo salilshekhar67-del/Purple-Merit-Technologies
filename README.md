@@ -125,7 +125,7 @@ The LLM receives pre-computed results as **"GROUND TRUTH — DO NOT CHANGE"** an
 | Category | Count | Citations | Key Metric |
 |----------|-------|-----------|------------|
 | Prerequisite Checks | 10 | 100% | 10/10 correct eligibility decisions |
-| Multi-hop Chains | 5 | 100% | Full chain reasoning with citations |
+| Multi-hop Chains | 5 | 95% | Full chain reasoning with citations |
 | Program Requirements | 5 | 100% | Accurate factual answers |
 | Trick / Not-in-docs | 5 | 100% | 5/5 correct abstentions |
 
